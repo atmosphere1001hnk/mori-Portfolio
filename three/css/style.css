@@ -800,7 +800,7 @@ body.night-mode .schedule-table td {
 .lesson-table tbody tr:hover,
 .price-table tbody tr:hover,
 .schedule-table tbody tr:hover {
-    background: #f5f5f5;
+    background: #fefefe;
 }
 
 body.night-mode .lesson-table tbody tr:hover,
@@ -1144,6 +1144,7 @@ body.night-mode .lunch-item p {
     text-align: center;
     margin-bottom: 40px;
     font-size: 1.8rem;
+    color: #fefefe;
 }
 
 .cast-cards {
